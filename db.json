@@ -1,0 +1,27 @@
+[
+  {
+   "id": 1,
+   "task" : "Eat Fruits",
+   "isComplete" : false
+  },
+  {
+   "id": 2,
+   "task" : "Go to market",
+   "isComplete" : false
+  },
+  {
+   "id": 3,
+   "task" : "Go to a party",
+   "isComplete" : false
+  },
+  {
+   "id": 4,
+   "task" : "Meet my lawyer",
+   "isComplete" : false
+  },
+  {
+   "id": 5,
+   "task" : "Buy grocery",
+   "isComplete" : false
+  }
+]
